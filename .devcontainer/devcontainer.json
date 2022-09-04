@@ -1,4 +1,5 @@
 {
     "name": "Python Project",
-    "dockerFile": "Dockerfile"
+    "dockerFile": "Dockerfile",
+    "remoteUser": "vscode"
 }
